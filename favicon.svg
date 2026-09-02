@@ -2,8 +2,8 @@
   <!-- Background gradient matching website theme -->
   <defs>
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#071d30;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#184e73;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
     </linearGradient>
   </defs>
   
@@ -11,8 +11,8 @@
   <circle cx="24" cy="24" r="24" fill="url(#bgGradient)"/>
   
   <!-- Inner circle border for polish -->
-  <circle cx="24" cy="24" r="23" fill="none" stroke="#2a6ea9" stroke-width="0.5" opacity="0.3"/>
+  <circle cx="24" cy="24" r="23" fill="none" stroke="#9f7aea" stroke-width="0.5" opacity="0.3"/>
   
-  <!-- KS Monogram -->
-  <text x="24" y="32" font-family="Inter, -apple-system, system-ui, sans-serif" font-size="24" font-weight="800" fill="white" text-anchor="middle" letter-spacing="-0.5">KS</text>
+  <!-- SZ Monogram -->
+  <text x="24" y="32" font-family="Inter, -apple-system, system-ui, sans-serif" font-size="24" font-weight="800" fill="white" text-anchor="middle" letter-spacing="-0.5">SZ</text>
 </svg>
